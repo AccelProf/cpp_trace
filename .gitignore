@@ -1,6 +1,6 @@
 lib/
 obj/
-cxx_backtrace/
+cpp_trace/
 
 
 .vscode/
