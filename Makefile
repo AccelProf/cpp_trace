@@ -1,4 +1,4 @@
-PROJECT := cxx_backtrace
+PROJECT := cpp_trace
 CONFIGS := Makefile.config
 
 include $(CONFIGS)
@@ -7,7 +7,7 @@ OBJ_DIR := obj
 SRC_DIR := src
 INC_DIR := include
 LIB_DIR := lib
-PREFIX := cxx_backtrace
+PREFIX := cpp_trace
 
 LIB := $(LIB_DIR)/lib$(PROJECT).so
 

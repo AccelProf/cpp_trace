@@ -1,4 +1,4 @@
-#include "cxx_backtrace.h"
+#include "cpp_trace.h"
 #include <cstdlib>
 #include <backtrace.h>
 #include <cxxabi.h>
